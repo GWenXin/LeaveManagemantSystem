@@ -1,0 +1,29 @@
+Using Leave Management, Employees can:
+
+
+-View time earned, time taken and remaining balance for each policy assigned
+-Model available time balance as of a specific date to get a real time snap shot of balance information
+-Enter and request time off
+-Carryover accrued time
+-View time off transaction history
+
+Using Leave Management, Managers can:
+
+-Approve or reject employee requests for time off
+-View time earned, time taken and time remaining for each employee
+-Model an employee's balance as of a specific date
+-Carryover accrued time
+-View time off transaction history
+-Make adjustments to an employee's balance
+-View transaction history of employee leave requests
+
+Using Leave Management, HR Professionals can:
+
+	
+-Perform all of the functions that employees and managers can perform
+-Edit leave records
+-Delete leave records
+-Manage leave policy assignments
+-Edit the employee's service date
+-Assign leave policies during the hire process
+-Report on aggregate data for leave policies

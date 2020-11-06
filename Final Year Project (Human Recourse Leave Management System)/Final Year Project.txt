@@ -1,0 +1,60 @@
+Final Year Project
+
+JPINFOTECH JP( Human Resource Management System)
+
+Demo of the software: https://www.youtube.com/watch?v=PSwTkzNVIGE
+The system enhances good Interaction / communication facilities between the employees and HR Administrator. 
+The site containing pages about an employee has to be dynamically created based on the user id and password and provide links to web pages containing information.
+To develop a software application to the application specific to the Human Resource automation in an intranet specific to company there by allowing the integration of all the employees pertaining to that organization.
+To keep track of all the other departments related to that organization such as marketing, development etc.
+To allow the Human Resource of an organization to update the employee details when ever there is a change in the employee profile pertaining to that organization. 
+To bring onto a string the employee specific suggestions and make them free to post their requirements to the Human Resource thus bringing the organization more specific regarding the maintenance of the organization.
+
+Disadvantages of the system:
+It is a simple human resource management system.
+The system don't have to develop the attendance and leave calulation.
+The system don't have Salary maintenanace.
+
+MQSYS Technologies(Human Resource payroll & salary management system)
+
+Demo of the software:https://www.youtube.com/watch?v=AKAhbk_jveE
+MQSYS Payroll Management System offers an unified Human Resources solution.
+MQSYS Payroll Management System is used by companies of all sizes, and was designed to scale up with an organization and quickly adapt as their needs change.
+MQSYS PMS combines their services in a sleek format that can be scaled to various sized companies.
+MQSYS Payroll Management System helps you to take control by automating time consuming tasks such as data entry.
+Customizable features allow you to set up the system in the way that makes the most sense for your payroll schedule.
+
+Disadvantages of the system:
+The System don't have a system to keep track of all the other departments related to that organization.
+The system don't have time table scheduling system.
+
+
+
+
+Our System have 3 main modules: employee,manager and (Human Resource)Adim
+
+Employee
+-Log in & Log out (security)
+-Payroll schedule
+-payroll daily task
+-Online Attendance
+-leave request
+-view employee's leave history 
+-Leave Application(Casual leave,Privilege leave,Sick leave,Compensatory off)
+
+Manager
+-Payroll schedule
+-Log in & Log out (security)
+-Peanding approval employee's leave
+-online Attendance
+-Leave Application(Casual leave,Privilege leave,Sick leave,Compensatory off)
+-view employee's leave history 
+-view attendance report 
+
+Adim(Human Resource)
+-Employee Register(contrats/personnel form)
+-Log in & Log out (security)
+-Leave Eligibility.
+-view employee's leave history 
+-Generate monthly attendance report
+-Daily Absent Report(generate thenumber of absentees of a particular department for a given daily.

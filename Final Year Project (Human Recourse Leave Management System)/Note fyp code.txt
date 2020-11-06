@@ -1,0 +1,49 @@
+Admin
+1.name-You
+  Password-You123456
+2.name-Stafen
+  Password-Stafen123
+3.name-Leo
+  Password-Leo123456
+
+======================
+Staff
+1. name-Jessi
+   Password-Jessi123
+2. name-Will
+   Password-Will12345
+3. name-Chloe
+   Password-Chloe123
+3.nama-Hannah
+  Password-Hannah123
+4.name-Austin
+  Password-Austin123
+5.name-Dylan
+  Password-Dylan123
+6.name-Colin
+  Password-Colin123
+7.name-Tom
+  Password-123456Tom
+8.name-Vincent
+  Password-Vincent123
+9.name-Tyler
+  Password-Tyler123
+10.name-Wyatt
+   password-Wyatt123
+11.name-Mason
+   password-Mason123
+12.name-Kyle
+   password-Kyle1234
+----------------------------------------------------------------------------
+Forgot Password refer code
+http://www.coderewind.com/article/create-login-logout-and-forgot-password-recovery-features-using-php-and-mysql/
+http://www.codingcage.com/2015/09/login-registration-email-verification-forgot-password-php.html
+http://bootsnipp.com/snippets/featured/custom-login-registration-amp-forgot-password
+http://www.newthinktank.com/2010/04/how-to-code-php-login-and-forgotten-password-scripts/
+http://blog.sodhanalibrary.com/2015/11/forgot-password-functionality.html#.V-YMcCh96hc
+https://www.developphp.com/video/PHP/Forgot-Account-Password-Form-Email-Script-Ajax-Tutorial
+https://www.formget.com/php-password-generator/   ******************************
+===============================================================================================================
+Chart
+https://developers.google.com/chart/interactive/docs/gallery/piechart
+http://canvasjs.com/docs/charts/basics-of-creating-html5-chart/
